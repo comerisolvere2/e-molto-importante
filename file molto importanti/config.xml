@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id = "com.phonegap.example"
+versionCode = "22"
+version = "1.6.0" >
+<!-- nome della app -->
+<name>CORNI DI CANZO</name>
+<!-- descrizione -->
+<description>
+Descrizione sulla gita di CANZO
+</description>
+<!-- autore -->
+<author href="https://build.phonegap.com">
+Gianluca Espinoza Mendoza
+</author>
+<!-- abilita links esterni -->
+<allow-navigation href="*://*getskeleton.com/*" />
+<!-- piattaforma di riferimento ed icona della app -->
+<platform name="android">
+<icon src="img//media/studente/UNIT/se non vuoi avere il debito fallo/images/images.jpeg" density="ldpi" />
+<icon src="img//media/studente/UNIT/se non vuoi avere il debito fallo/images/images.jpeg" density="mdpi" />
+<icon src="img//media/studente/UNIT/se non vuoi avere il debito fallo/images/images.jpeg" density="hdpi" />
+<icon src="img//media/studente/UNIT/se non vuoi avere il debito fallo/images/images.jpeg" density="xhdpi" />
+
+</platform>
+</widget>
